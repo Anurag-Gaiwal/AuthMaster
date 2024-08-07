@@ -57,7 +57,3 @@ To get started with the project locally, follow these steps:
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
